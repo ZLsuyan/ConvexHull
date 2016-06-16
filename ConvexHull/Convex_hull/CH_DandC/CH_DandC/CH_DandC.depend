@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1418999095 source:e:\program files\codeblocks\projects\ch_dandc\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<vector>
+	<stdlib.h>
+
+1447854402 source:f:\zengli\now\曾丽\2015年秋季\算法设计与分析\算法实验\张艳锐师姐\ch_dandc\ch_dandc\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<vector>
+	<stdlib.h>
+
+1448883490 source:e:\algorithm\convex_hull\ch_dandc\ch_dandc\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<vector>
+	<stdlib.h>
+
